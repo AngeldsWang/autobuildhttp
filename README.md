@@ -2,7 +2,7 @@
 
 #### 1. Prepare your Dockerfile like the example of [The Docker Book](https://github.com/jamtur01/dockerbook-code/blob/master/code/5/website/Dockerfile)
 
-#### 2. You can build the local image to check it works well
+#### 2. You can build the image locally to check it works well
 
 #### 3. Link to [DockerHub](https://hub.docker.com/r/angeldsphinx/autobuildhttp/)
 - Create Automated Build
