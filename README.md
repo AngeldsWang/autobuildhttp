@@ -4,6 +4,6 @@
 
 #### 2. You can build the local image
 
-#### 3. Link to DockerHub
-
-
+#### 3. Link to [DockerHub](https://hub.docker.com/r/angeldsphinx/autobuildhttp/)
+- Create Automated Build
+- Link to Your Github and choose the repo you want to be built
